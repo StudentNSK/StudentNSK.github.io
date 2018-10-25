@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.mgrmobi.kitwts",
-    "sha256_cert_fingerprints":
-    ["FE:A9:39:55:95:5D:66:D3:B9:43:64:70:57:7F:51:F6:86:9A:42:CB:E5:27:57:56:51:E1:C8:B9:FF:F5:3F:D5"]
-  }
-}]
